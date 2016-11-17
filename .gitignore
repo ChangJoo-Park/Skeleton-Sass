@@ -4,3 +4,4 @@ css
 bower_components
 
 yarn.lock
+npm-debug.log
